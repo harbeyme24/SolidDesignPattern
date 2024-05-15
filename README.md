@@ -15,12 +15,11 @@ Make sure you have a TestProgram that will validate the proposed refactored code
 # UML Diagram
 
 # Run JAVA
-
-# 1. Lend a Book
+1. Lend a Book
 <img width="1728" alt="Screenshot 2024-05-15 at 12 52 28 PM" src="https://github.com/harbeyme24/SolidDesignPattern/assets/143273418/571f7590-dd45-4608-99d2-505ab0e99f8e">
-# 2. Lend a Journal
+2. Lend a Journal
 <img width="1728" alt="Screenshot 2024-05-15 at 12 53 04 PM" src="https://github.com/harbeyme24/SolidDesignPattern/assets/143273418/bd1944dc-af70-4a0b-91f9-b365589c86fc">
-# 3. Print Programmer's Name
+3. Print Programmer's Name
 <img width="1728" alt="Screenshot 2024-05-15 at 12 53 22 PM" src="https://github.com/harbeyme24/SolidDesignPattern/assets/143273418/6c3083e8-e9d9-4344-9979-d6b40a95c386">
-# 4. Terminate Program
+4. Terminate Program
 <img width="1728" alt="Screenshot 2024-05-15 at 12 53 45 PM" src="https://github.com/harbeyme24/SolidDesignPattern/assets/143273418/4295a565-56c8-4a80-b66b-a61f1d124515">
