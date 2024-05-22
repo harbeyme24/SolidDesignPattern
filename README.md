@@ -13,6 +13,7 @@ Create a repository in your GitHub account. Put your solution there. In the read
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
 # UML Diagram
+<img width="605" alt="Screenshot 2024-05-22 at 11 31 41 PM" src="https://github.com/harbeyme24/SolidDesignPattern/assets/143273418/375c7eb0-7944-47ec-a35b-d73f2f4afd6c">
 
 # Run JAVA
 1. Lend a Book
